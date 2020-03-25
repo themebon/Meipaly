@@ -17,9 +17,9 @@
                   <li class="menu-item-has-children">
                     <a href="/">Home</a>
                     <ul class="sub-menu">
-                      <li><a href="/">Home 01</a></li>
-                      <li><a href="/index-2">Home 02</a></li>
-                      <li><a href="/index-3">Home 03</a></li>
+                      <li><nuxt-link to="/">Home 01</nuxt-link></li>
+                      <li><nuxt-link to="/index-2">Home 02</nuxt-link></li>
+                      <li><nuxt-link to="/index-3">Home 03</nuxt-link></li>
                     </ul>
                   </li>
                   <li><nuxt-link to="/about">About</nuxt-link></li>
@@ -95,9 +95,9 @@
                     <li class="menu-item-has-children">
                       <a href="javascript:void(0);">home</a>
                       <ul class="dl-submenu">
-                        <li><a href="/">Home 01</a></li>
-                        <li><a href="/index-2">Home 02</a></li>
-                        <li><a href="/index-3">Home 03</a></li>
+                        <li><nuxt-link to="/">Home 01</nuxt-link></li>
+                        <li><nuxt-link to="/index-2">Home 02</nuxt-link></li>
+                        <li><nuxt-link to="/index-3">Home 03</nuxt-link></li>
                       </ul>
                     </li>
                     <li><nuxt-link to="/about">About</nuxt-link></li>

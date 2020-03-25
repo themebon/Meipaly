@@ -387,6 +387,10 @@ License URI:
 .slider-one p.slider-one__text {
   margin-bottom: 50px;
 }
+.slider__content {
+  position: relative;
+  top: 50px;
+}
 
 @media (max-width: 767px) {
   .slider-one__title {
