@@ -1,0 +1,18 @@
+{
+  "name": "meipaly",
+  "version": "1.0.0",
+  "description": "Meipaly - Vue Nuxt Digital Services Agency Template",
+  "author": "Layerdrops",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "@bazzite/nuxt-optimized-images": "^0.3.0"
+  },
+  "devDependencies": {}
+}
